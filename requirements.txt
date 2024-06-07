@@ -1,0 +1,6 @@
+jupyterlab
+jupyterlab-rise
+scikit-image
+napari[all]
+matplotlib
+ipympl
