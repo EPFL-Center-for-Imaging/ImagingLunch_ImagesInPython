@@ -1,6 +1,7 @@
-jupyterlab
-jupyterlab-rise
-scikit-image
-napari[all]
+numpy
+pandas
 matplotlib
-ipympl
+scikit-image
+tifffile
+jupyterlab
+jupyterlab-myst
